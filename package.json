@@ -1,0 +1,12 @@
+{
+  "name": "new-syntropy-studio-workspace",
+  "keywords": [
+    "syntropy-studio-workspace"
+  ],
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^0.1.21",
+    "canvas": "^2.1.0",
+    "face-api.js": "^0.16.1",
+    "sobel": "0.0.10"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "source": "code.js",
+  "members": [
+    {
+      "id": "s1zBMJE1i",
+      "stateKey": "imageData",
+      "type": "Link",
+      "updateOnly": "false"
+    }
+  ],
+  "renderer": true,
+  "path": "/Users/mattway/workspaces/webcam/blocks/output"
+}

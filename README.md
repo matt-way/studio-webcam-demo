@@ -1,2 +1,1 @@
-# studio-webcam-demo
-Syntropy Studio Webcam Demo
+# New Syntropy Studio Workspace

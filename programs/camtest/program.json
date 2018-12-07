@@ -1,0 +1,33 @@
+{
+  "control": {
+    "running": true,
+    "resetting": false,
+    "mode": 1
+  },
+  "blockInstances": [
+    {
+      "id": "input-SKJMPiHw4",
+      "type": "input",
+      "name": "input",
+      "codeExpanded": false,
+      "memberOverrides": {}
+    },
+    {
+      "id": "colour-S1EcuaXxm",
+      "type": "colour",
+      "codeExpanded": true,
+      "disabled": false
+    },
+    {
+      "id": "output-tvce0ZZvG",
+      "type": "output",
+      "name": "output",
+      "codeExpanded": true,
+      "memberOverrides": {
+        "s1zBMJE1i": {
+          "value": "imageData"
+        }
+      }
+    }
+  ]
+}
